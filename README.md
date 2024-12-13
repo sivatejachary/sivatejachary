@@ -5,13 +5,13 @@ Welcome to my GitHub profile! I'm an enthusiastic **Machine Learning Engineer** 
 ## 💻 About Me
 - 🎓 **Education:**
   - B.Tech in Computer Science and Engineering (7.9 CGPA) from Chalapathi Institute of Engineering and Technology, Guntur
-  - PG Diploma in Data Science and Machine Learning from Cranes Varsity
+  - Trained in Data Science and Machine Learning from Cranes Varsity, Bengaluru
 
 - 🛠️ **Technical Skills:**
-  - Programming Languages: Python, SQL, C
-  - Data Analysis: Pandas, NumPy, Matplotlib
-  - Machine Learning: Sklearn, TensorFlow
-  - Tools: Jupyter Notebook, Google Colab, Power BI, Tableau, Advanced Excel
+  - **Programming Languages:** Python, SQL
+  - **Data Analysis:** Pandas, NumPy, Matplotlib
+  - **Machine Learning:** Sklearn, TensorFlow
+  - **Tools:** Jupyter Notebook, Google Colab, Power BI, Tableau, Advanced Excel
 
 - 🌱 **Currently Exploring:**
   - Deep Learning techniques and frameworks
@@ -19,9 +19,11 @@ Welcome to my GitHub profile! I'm an enthusiastic **Machine Learning Engineer** 
   - Cloud-based ML deployments
 
 - 💡 **Interests:**
-  - Machine Learning & Deep Learning
+  - Machine Learning 
   - Data Science & AI
-  - Software Engineering & Data Analytics
+  - Software Engineering
+  -  Data Analytics
+  -  Data Engineer
 
 ## 🔬 Projects
 - **Plant Disease Detection**: Implemented a system using TensorFlow and Flask to detect plant diseases.
@@ -35,8 +37,8 @@ Welcome to my GitHub profile! I'm an enthusiastic **Machine Learning Engineer** 
 - To continuously learn and stay updated in the evolving field of technology.
 
 ## 📬 Let's Connect!
-- 📧 **Email:** sivatejachary@gmail.com
-- 🌐 **LinkedIn:** [Jayavarapu Siva Tejachary](https://www.linkedin.com/in/sivatejachary)
+- 📧 **Email:** j.shivachary@gmail.com
+- 🌐 **LinkedIn:** [Jayavarapu Siva Tejachary](https://www.linkedin.com/in/jayavarapu-siva-tejachary-197597246/)
 
 Thank you for visiting my GitHub profile! 😊 Feel free to explore my repositories, and let's collaborate to create amazing solutions together!
 
