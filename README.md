@@ -26,8 +26,14 @@ Welcome to my GitHub profile! I'm an enthusiastic **Machine Learning Engineer** 
   -  Data Engineer
 
 ## 🔬 Projects
-- **Plant Disease Detection**: Implemented a system using TensorFlow and Flask to detect plant diseases.
-- **Simple Calculator**: Built an interactive GUI calculator using Python and Tkinter.
+- **1. Plants Disease Detection Using Flask**
+  - Developed a Flask-based web application for real-time leaf disease detection using TensorFlow.  Achieved 95% accuracy by training the model on a dataset of 10,000 labeled leaf images.
+  - Enabled easy-to-use upload functionality for farmers to analyze diseases instantly.
+- **2. Data Analysis Website** 
+  - Created a web-based platform to analyze and visualize data from uploaded CSV, files.
+  - Integrated multiple chart types (Bar, Line, Scatter, Pie) with dynamic axis selection and customization.
+  - Enhanced user experience with a responsive interface styled in CSS.
+
 
 ## 🌟 Strengths
 - Time management, teamwork, adaptability, problem-solving, and a willingness to learn.
